@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.header {
+text-align: center;
+font-family: 'Shrikhand', cursive;
+font-size: 40PX;
+text-decoration: underline overline dotted red 5px;
+}
